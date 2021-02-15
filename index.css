@@ -1,0 +1,30 @@
+#container{background-color:white;width:80%;height:auto;margin:auto;}
+*{margin:0;padding:0;}
+.logo img {width:150;float:left;}
+.lineicon{color:black;float:right;margin:5 0 0 0;font-size:60;}
+.clear{clear:both;}
+.middle img{width:700;margin:20 0 0 25;}
+.middle{float:left;margin:35 0 0 0;width:100%;height:520;}
+.bttn{float:left;margin:3 0 0 10;}
+.stati{width:100%;height:500;float:left;margin-top:350;}
+.aa{width:160;float:left;text-align:center;margin:23 0 0 25;}
+.aa i{font-size:60;padding:30 30 10 30;}
+.aa p{font-size:15;}
+footer{width:100%;background-color:#4494B9;height:250;position:relative;}
+.social{width:70%;text-align:center;margin:80 0 0 140;position:absolute;}
+.social i{padding-top:10;font-size:25;color:white;background-color:blue;width:40;height:30;margin-left:10;}
+.social p{font-size:17;color:white;margin-top:10;}
+body{width:960px;}
+.aa h4{font-size:25;font-weight:900;padding:0 30 10 30;}
+.social i:hover {border-radius:50%;}
+.bttn select {
+background-color:blue;
+width:235;
+height:50;
+background-color:#619CB2;
+border:0;color:white;font-weight:bold;font-size:15;padding-left:70;margin:20 0 0 5;}
+
+.middle img:hover {
+padding-top:20;
+box-shadow:0px 15px 15px 10px black;
+}
